@@ -3,7 +3,7 @@ import inquirer from "inquirer"
 
 const currencies : any = {
     USD : 1,   //based currency
-    PKR : 278.21,
+    PKR : 277.09,
     INR : 74.57,
     EUR : 0.91,
     GBP : 0.74,
